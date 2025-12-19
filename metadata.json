@@ -1,0 +1,5 @@
+{
+  "name": "PhishGuard AI",
+  "description": "An advanced email scam detection chatbot that analyzes message content for phishing attempts, fraud, and security risks using Gemini 3 Pro reasoning.",
+  "requestFramePermissions": []
+}
